@@ -2,4 +2,4 @@
 
 A Dockerfile built on nginx to run an impress demo presentation on the devNation conference
 
-The container will clone [https://github.com/alubneuski/impress.js](https://github.com/alubneuski/impress.js).
+The container deploys the presentation to [http://impress-devnation-docker-17ed8756-1.testaccount.cont.tutum.io/](impress-devation-docker).
